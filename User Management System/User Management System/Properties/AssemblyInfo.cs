@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("EAD_S18_A4_BCSF15M030")]
+[assembly: AssemblyTitle("User Management System")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("EAD_S18_A4_BCSF15M030")]
+[assembly: AssemblyProduct("User Management System")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("1ca4cbd2-3998-4022-a05c-4685848af03f")]
+[assembly: Guid("406b9423-0cbd-4a1f-8cfc-0bcd21d88ced")]
 
 // Version information for an assembly consists of the following four values:
 //

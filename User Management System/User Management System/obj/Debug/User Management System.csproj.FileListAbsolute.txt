@@ -1,0 +1,10 @@
+C:\Users\Muneeb\Documents\Visual Studio 2013\Projects\ead_s18_a4_bcsf15m030\User Management System\User Management System\bin\Debug\User Management System.exe.config
+C:\Users\Muneeb\Documents\Visual Studio 2013\Projects\ead_s18_a4_bcsf15m030\User Management System\User Management System\obj\Debug\User Management System.csprojResolveAssemblyReference.cache
+C:\Users\Muneeb\Documents\Visual Studio 2013\Projects\ead_s18_a4_bcsf15m030\User Management System\User Management System\obj\Debug\User_Management_System.mainForm.resources
+C:\Users\Muneeb\Documents\Visual Studio 2013\Projects\ead_s18_a4_bcsf15m030\User Management System\User Management System\obj\Debug\User_Management_System.newUserForm.resources
+C:\Users\Muneeb\Documents\Visual Studio 2013\Projects\ead_s18_a4_bcsf15m030\User Management System\User Management System\obj\Debug\User_Management_System.Properties.Resources.resources
+C:\Users\Muneeb\Documents\Visual Studio 2013\Projects\ead_s18_a4_bcsf15m030\User Management System\User Management System\obj\Debug\User Management System.csproj.GenerateResource.Cache
+C:\Users\Muneeb\Documents\Visual Studio 2013\Projects\ead_s18_a4_bcsf15m030\User Management System\User Management System\bin\Debug\User Management System.exe
+C:\Users\Muneeb\Documents\Visual Studio 2013\Projects\ead_s18_a4_bcsf15m030\User Management System\User Management System\bin\Debug\User Management System.pdb
+C:\Users\Muneeb\Documents\Visual Studio 2013\Projects\ead_s18_a4_bcsf15m030\User Management System\User Management System\obj\Debug\User Management System.exe
+C:\Users\Muneeb\Documents\Visual Studio 2013\Projects\ead_s18_a4_bcsf15m030\User Management System\User Management System\obj\Debug\User Management System.pdb
